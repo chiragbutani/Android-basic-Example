@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">seekbarexample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="seekbar_from_touch">seekbar from touch</string>
+    <string name="seekbar_tracking_on">seekbar tracking on</string>
+    <string name="seekbar_tracking_off">seekbar tracking off</string>
+    
+   
+
+</resources>
